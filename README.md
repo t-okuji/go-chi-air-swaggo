@@ -1,6 +1,6 @@
 # Go + chi + air + swaggo
 
-This is Go prject.
+This is Go project.
 
 ## Getting started
 
